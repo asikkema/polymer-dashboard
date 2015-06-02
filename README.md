@@ -1,2 +1,1 @@
-# polymer-dashboard
-demo app to fiddle a bit with polymer
+## Polymer hobby fiddle project.
